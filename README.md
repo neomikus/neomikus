@@ -1,23 +1,23 @@
 <h2 align="center">Hi there! I'm Mica and this is my github</h2>
 
 <div align="center">
-<img style="height: auto; width: 51%;" src="https://github-readme-stats.vercel.app/api?username=neomikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars""></img>
-<img style="height: auto; width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake"></img>
+<img style="height: auto; width: 51%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api?username=neomikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars""></img>
+<img style="height: auto; width: 39%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake"></img>
 </div>
 
 <div align="center">
   <h2>Featured repositories</h2>
   <div align="center">
-    <a href="https://github.com/neomikus/42-Webserv"><img style="height: auto; width: 45%;" class="right-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
-    <a href="https://github.com/neomikus/42-Minishell"><img style="height: auto; width: 39.9%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-Webserv"><img style="height: auto; width: 45%;" class="right-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-Minishell"><img style="height: auto; width: 39.9%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   </div>  
   <div>
-    <a href="https://github.com/neomikus/42-cub3d"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=42-cub3d&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
-    <a href="https://github.com/neomikus/42-Inception"><img style="height: auto; width: 39.9%;" class="right-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=42-Inception&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-cub3d"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-cub3d&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-Inception"><img style="height: auto; width: 39.9%;" class="right-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   </div>
   <div>
-  <a href="https://github.com/neomikus/42-Libft"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=42-Libft&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
-  <a href="https://neomikus.dev/wordle"><img style="height: auto; width: 39.9%;" class="left-image" src="https://github-readme-stats.vercel.app/api/pin/?username=neomikus&repo=wordle&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+  <a href="https://github.com/neomikus/42-Libft"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Libft&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+  <a href="https://neomikus.dev/wordle"><img style="height: auto; width: 39.9%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=wordle&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   </div>
 </div>
 
