@@ -9,11 +9,11 @@
   <h2>Featured repositories</h2>
   <div align="center">
     <a href="https://github.com/neomikus/42-Webserv"><img style="height: auto; width: 45%;" class="right-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
-    <a href="https://github.com/neomikus/42-Minishell"><img style="height: auto; width: 39.9%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-Minishell"><img style="height: auto; width: 39%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   </div>  
   <div>
-    <a href="https://github.com/neomikus/42-cub3d"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-cub3d&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
-    <a href="https://github.com/neomikus/42-Inception"><img style="height: auto; width: 39.9%;" class="right-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/Webserver-Siege-Tester"><img style="height: auto; width: 42%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Webserver-Siege-Tester&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
+    <a href="https://github.com/neomikus/42-Inception"><img style="height: auto; width: 42%;" class="right-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
   </div>
   <div>
   <a href="https://github.com/neomikus/42-Libft"><img style="height: auto; width: 45%;" class="left-image" src="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Libft&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321"></img></a>
