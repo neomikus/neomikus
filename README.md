@@ -2,7 +2,7 @@
 
 <div align="center">
 <img style="height: auto; width: 51%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api?username=neomikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars""></img>
-<img style="height: auto; width: 39%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake"></img>
+<img style="height: auto; width: 39%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell"></img>
 </div>
 
 <div align="center">
