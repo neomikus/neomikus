@@ -8,7 +8,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/top-langs/?username=neomikus&theme=buefy&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
     <img alt="My GitHub coding languages" style="height: auto; width: 39%;"></img>
   </picture>
 </div>
@@ -18,36 +18,36 @@
   <div>
     <a style="text-decoration:none" href="https://github.com/neomikus/42-Webserv"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Webserv&theme=buefy">
       <img alt="42-Webserv Repo" style="height: auto; width: 45%;">
     </picture></a>
     <a style="text-decoration:none" href="https://github.com/neomikus/42-Minishell"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Minishell&theme=buefy">
       <img alt="42-Minishell Repo" style="height: auto; width: 39%;">
     </picture></a>
   </div>
   <div>
     <a style="text-decoration:none" href="https://github.com/neomikus/Webserver-Siege-Tester"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Webserver-Siege-Tester&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Webserver-Siege-Tester&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Webserver-Siege-Tester&theme=buefy">
       <img alt="Webserver-Siege-Tester repo" style="height: auto; width: 42%;">
     </picture></a>
     <a style="text-decoration:none" href="https://github.com/neomikus/42-Inception"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Inception&theme=buefy">
       <img alt="42-Inception repo" style="height: auto; width: 42%;">
     </picture></a>
   </div>
   <div>
     <a style="text-decoration:none" href="https://github.com/neomikus/42-Libft"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Libft&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Libft&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=42-Libft&theme=buefy">
       <img alt="42-Libft repo" style="height: auto; width: 45%;">
     </picture></a>
     <a style="text-decoration:none" href="https://github.com/neomikus/Wordle"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Wordle&theme=radical">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Wordle&theme="buefy">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta-murex-42.vercel.app/api/pin/?username=neomikus&repo=Wordle&theme=buefy">
       <img alt="My wordle implementation repo" style="height: auto; width: 39%;">
     </picture></a>
   </div>
