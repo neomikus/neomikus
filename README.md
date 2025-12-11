@@ -56,7 +56,7 @@
 <h2></h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/No-AI-badge-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="media/No-AI-badge-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="media/No-AI-badge-light.png">
   <img alt="Developed by a human, not AI">
 </picture>
 
