@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Mica and this is my github</h2>
+<h2 align="center">Hi there! I'm Mica and this is my GitHub</h2>
 
 <div align="center">
 <img style="height: auto; width: 51%;" src="https://github-readme-stats-delta-murex-42.vercel.app/api?username=neomikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars""></img>
@@ -21,14 +21,20 @@
   </div>
 </div>
 
-<h3>Contact me!<h3>
+<h2></h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/No-AI-badge-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="media/No-AI-badge-white.png">
+  <img alt="Developed by a human, not AI">
+</picture>
+
+<h2>Contact me!<h2>
 <a href="https://www.linkedin.com/in/micaela-casaubon/">
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-100000?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAB2AAAAdgB+lymcgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAT0SURBVHic7ZtbbBRVGMd/Z9ptuy1tt6U3Wi4aqQYbpKWVIPgCKjEERJvIzUQwsVWMifFJYkxsYoyACQ8mPggxgWqUQgImXCVeShqJSgsB5FIqoLa03S2lpS3tbmd3xgcs0nY7OzMte3bb/t52znfO/M9/d+Z8851ZwVDKax243GsR4iV0vQRBFhA/LC468KHjQYha0PbTkVPFjhL1/gAxKHzzkaXo2hcgZodVZvhoQGjlbFlZPXDgfwM2H96Izk4gVoKwcKKi62VsW7EbBgzYfGQpun4McMhUFkZUhLaMLSurBeW1DtJaL47jn/1INNCRXaDgcq+dgJMHyMflWa0gKJWtRBpCL1XQKZatQyLzlf/W+YnKNIXoTXLGgnhFtgLZTHgDbGd9mUlxvPv0w6wqyOaR9ERu9an80HCTT6qvcsnTM5YaHyiC9w7rVjs9MS2Zo689SW5KwrA2r19jw96z7D3XMiYCHzSWL4FERwwHN5QEnTxAQqxC5ep5zM1JHrW4cGDZgDcXzmSmy2kYEx+r8MHS6EguLRuwLD/DVNzzj2VaFiMDywZkJsWZikuOiyUuJvIXGcsKPXf6TcU1d3vpD2iWBYUbywZ8d8FtKu7QJY9lMTKwbEDl6Rucb+02jOnsU9l64pptUeHEsgF9aoDSr+q44A6e7LT39rOqso7rt3pHLS4c2EqE4G4+ULZgBi8WZJOXkkB7r8pPV9vZXnOd9l5z94lIwLYB44WIrgDHKIK8lASmJjoI6Dq3vX4aO71o+th9Z7YMmJuTzGcvPE5y/PDuakDnox8bOFLfdu9YeqKDXS/PIzcleOnh+JWbvP99PQBxMQqvzs9jfWEui2alER87+DbV0x/g5N8dVJ5uYs/ZFgLa6MywdQnsKJ1L2YIZI7b/1tjJws9P3vv8SlEuX68pNBzTVXGcrCnxfLuukOK8VFM6zjR3seabMzTcvGNOeBBspWpDv5WhJAxpdyihTzMnawq/vrXI9OQBinJT+GXTUzyakWS6z1AiJlfds66I9ETr+zKZSXFUrS/CESNCBwchYgyYlWb8hGlEYW4KG4un2+obMQaMlvIFM231GzcGFOelMj01eJHGiIjLA45daWN7zXUuuHtIdzpY/FAaHz6bz7Rk4+q9EPDM7Ax21zVZOl9EGbDz90beOHCegTynucvLH+5ujta3certxWRNMa5FzMmyvhpEzCXQ3OXlnYMXCZbk/dPZx8c//xlyjPypUWzAl6ea6FMDI7ZXnQ1dZXY5rS+jEWNA9bV2w3Z3j4/Wbp9hjNNhfToRY8DlttDprKfH+DHbGRtj+bwRY0Cvwc9/AL9mXGN0OqLYADOEemqzkw5HlQEPgkkDZAuQzaQBsgXIZtIA2QJkM2mAbAGymTTATqdQmxFD283s5GgmNjhCDWNnw8iWAVXnWrjt9Qdt8/k1dtXdGHSs5q8Omm57Rxzv0CUPXb7g493PvvMtqIHgs/RrOlU23kyb8Jujk/cA2QJkowDGdabxjU8BzL31ND5pVkDUyVYhD71OAW2/bBnyEAcUnEl7gMuypUjgCh3Z+xQqlvgR2iZADdll/KCiiXJ2lKh3l8EtK6vR9TImhgkqiNf5dPkJuD8P2LZiN0JbBjTIUhYG6tHEc2xdXjlwYHghvbzWgcuzGqGXIihGJ4fo/WeZD0ErOrXAfpyJe6lYMuih41+1YHRddkqo9QAAAABJRU5ErkJggg==&logoColor=white&labelColor=0072b1&color=0A66C2"/>
 </a>
 <a href="https://profile.intra.42.fr/users/fcasaubo">
   <img alt="42" src="https://img.shields.io/badge/Intranet-100000?style=plastic&logo=42&logoColor=white&labelColor=0E0E0E&color=000000"/>
 </a>
-
 
 <h2>Education and expertises</h2>
 
